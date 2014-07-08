@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+    <head>
+        <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <title>GNU's Not Unix</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css/screen.css" media="all">
+    </head>
+    <body>
+        <section class="one">
+            <div class="text">
+                <p>I am a GNU. Here is me when I was a wild beast wandering around aimlessly with nothing to do. Those were tough times. Thankfully, the Free Software Foundation headed by Richard Stallman brought me out of solitude so I could live the good life.</p>
+           </div>
+           <i class="fa fa-camera-retro fa-5x"></i> 
+        </section>
+        <section class="two">
+           <div class="text">
+               <p>Back in the day when I was a baby, I hung out with Baby Tux, the mascot of the Linux Kernel. Those were fun times when we first got together. However, our parents, Richard Stallman and Linus Torvalds, didn't quite get along...</p>
+           </div>
+           <i class="fa fa-linux fa-5x"></i>
+        </section>
+        <section class="three">
+           <div class="text">
+              <p>Here, I'm listening to music from a CD player. I feel really bad for all of those people who listen to music from Apple's DRM-infested music players. Those people deserve better. :(</p>
+           </div>
+           <span class="fa-stack fa-5x">
+               <i class="fa fa-apple fa-stack-1x"></i>
+               <i class="fa fa-ban fa-stack-2x"></i>
+           </span>
+        </section>
+        <section class="four">
+            <div class="text">
+                <p>Me and Tux are all grown up and are supporting the GNU Public License together. We will fight to the death anyone who threatens the GPL or the Free Software Movement. It feels good to be flying.</p>
+            </div>
+            <i class="fa fa-space-shuttle fa-5x"></i>
+        </section>
+    </body>
+</html>
